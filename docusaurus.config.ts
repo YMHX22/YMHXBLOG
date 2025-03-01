@@ -8,16 +8,16 @@ const beian = '闽ICP备2020017848号-2'
 const beian1 = '闽公网安备35021102000847号'
 
 const config: Config = {
-  title: '愧怍',
-  url: 'https://kuizuo.cn',
+  title: '雨墨寒轩',
+  url: 'https://ymhxblog.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'kuizuo',
+  organizationName: '雨墨寒轩',
   projectName: 'blog',
   customFields: {
     bio: '道阻且长，行则将至',
     description:
-      '是一个由愧怍创建的个人博客，主要分享编程开发知识和项目，该网站基于 React 驱动的静态网站生成器 Docusaurus 构建。',
+      '是一个由愧怍创建的个人博客，由雨墨寒轩进行魔改后的个人博客，感谢kuizuo。',
   },
   themeConfig: {
     // announcementBar: {
@@ -36,7 +36,7 @@ const config: Config = {
       },
       {
         name: 'keywords',
-        content: '编程爱好者, Web开发者, 写过爬虫, 学过逆向, 主攻ts全栈',
+        content: '一个furry、kiger、vrchat玩家，会点改模和地图制作与blender.',
       },
     ],
     docs: {
